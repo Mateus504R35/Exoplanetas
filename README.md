@@ -161,7 +161,3 @@ Yes. Use `--use_logreg` in step 3 to train a tiny logistic regression meta‑mod
 From the catalogs’ disposition fields after a simple mapping (confirmed/planet vs false positive). Rows with “candidate/other” are dropped during preprocessing.
 
 ---
-
-## License
-
-Pick a license that matches how you want others to use this (MIT/Apache‑2.0 are popular). If you’re unsure, https://choosealicense.com is a great guide.
